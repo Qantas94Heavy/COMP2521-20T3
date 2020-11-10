@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T05:38:50.681Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ygzw0b4Bn7QaszpsdFo5" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T05:41:03.554Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="SUPJS5NaHKJtKzG1X4Ry" version="13.9.2" type="github">
   <diagram id="JeULcchd7E0I5C79hs8H" name="Page-1">
     <mxGraphModel dx="923" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -107,16 +107,16 @@
           <mxGeometry x="130" y="520" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wwLtkvYDBhIcgLj_sCR3-37" value="d) Non-adaptive and unstable" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="540" width="170" height="20" as="geometry" />
+          <mxGeometry x="345" y="540" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wwLtkvYDBhIcgLj_sCR3-38" value="b) Non-adaptive and cyclical" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="540" width="170" height="20" as="geometry" />
+        <mxCell id="wwLtkvYDBhIcgLj_sCR3-38" value="b) Non-adaptive and cyclical-based" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="540" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wwLtkvYDBhIcgLj_sCR3-39" value="c) Adaptive and stable" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="520" width="130" height="20" as="geometry" />
+          <mxGeometry x="345" y="520" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wwLtkvYDBhIcgLj_sCR3-40" value="e) Adaptive and unstable" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="520" width="150" height="20" as="geometry" />
+          <mxGeometry x="525" y="520" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wwLtkvYDBhIcgLj_sCR3-41" value="The following algorithm sorts people by age in ascending order:" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="120" width="350" height="20" as="geometry" />
